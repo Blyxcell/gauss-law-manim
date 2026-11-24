@@ -17,8 +17,8 @@ ManimCE 动画、12 章中文讲稿、AI 配音生成器和连续配音合成脚
 - `narration.json`：章节标题与中文旁白原稿
 - `generate_voice.py`：Edge TTS 普通话 AI 配音生成器
 - `render_video.py`：以 1920×1080、30 fps 渲染，并把完整旁白连续合成为音轨
-- `audio/`：12 个章节的配音文件
-- `Gauss_Law_1080p.mp4`：渲染后的带配音视频
+- `audio/`：运行配音脚本后生成的章节配音文件（未提交到源码仓库）
+- `Gauss_Law_1080p.mp4`：运行渲染脚本后生成的带配音视频（未提交到源码仓库）
 
 ## 生成与渲染
 
